@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.december_navigation"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.december_navigation"
